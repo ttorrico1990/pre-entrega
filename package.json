@@ -1,0 +1,14 @@
+{
+  "name": "pre-entrega comisión #26225",
+  "version": "1.0.2",
+  "description": "Pre-entrega Back End Node.js - Gestión de productos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Terry",
+  "license": "ISC"
+}
